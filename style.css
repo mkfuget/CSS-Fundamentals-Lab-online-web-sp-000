@@ -13,3 +13,16 @@ navbar a {
   padding-right: 10px;
 }
 
+#featured-proprty p{
+  width: 900px;
+  text-align: center;
+}
+
+#details
+{
+  display:block;
+}
+
+#details div {
+  float: left;
+}
