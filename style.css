@@ -19,7 +19,9 @@ navbar a {
   padding-left: 10px;
   padding-right: 10px;
 }
-
+#featured-proprty {
+  width: 900px;
+}
 #featured-proprty p{
   width: 900px;
   text-align: center;
