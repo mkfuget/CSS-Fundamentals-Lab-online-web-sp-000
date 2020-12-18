@@ -8,6 +8,10 @@ header {
   text-align:center;
 }
 
+img {
+  
+}
+
 navbar a {
   padding-left: 10px;
   padding-right: 10px;
@@ -25,4 +29,7 @@ navbar a {
 
 #details div {
   float: left;
+  background-color: red;
+  width:25%;
+  text-align:center;
 }
