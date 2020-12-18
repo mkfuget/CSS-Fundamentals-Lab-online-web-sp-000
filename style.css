@@ -6,9 +6,7 @@ body {
 
 header {
   text-align:center;
-  background-color: grey;
 }
-
 img {
   display: block;
   margin-left: auto;
@@ -19,6 +17,8 @@ img {
 navbar a {
   padding-left: 10px;
   padding-right: 10px;
+  background-color: grey;
+
 }
 #featured-proprty {
   width: 900px;
