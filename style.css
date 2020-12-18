@@ -23,9 +23,10 @@ navbar a {
 #featured-proprty {
   width: 800px;
 }
-#featured-proprty p{
+#featured-proprty p {
   width: 900px;
   text-align: center;
+  text-color: red;
 }
 
 #details
