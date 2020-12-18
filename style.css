@@ -17,7 +17,7 @@ img {
 navbar a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: grey;
+  background-color: blue;
 
 }
 #featured-proprty {
@@ -26,7 +26,6 @@ navbar a {
 #featured-proprty p {
   width: 900px;
   text-align: center;
-  text: red;
 }
 
 #details
